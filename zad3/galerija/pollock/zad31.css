@@ -1,0 +1,42 @@
+a img{
+	float: right;
+	width: 230px;
+	padding: 8px;
+	border: 1px solid red;
+}
+
+p {
+	color: red;
+	font-family: calibri;
+	font-size: 25px;
+}
+
+div img {
+	      width:200px;
+	     
+}
+div p {
+	color: red;
+	margin: 5px;
+	padding: 8px;
+	text-align: center;
+	font-size: 17px;
+}
+
+.floating-box {
+    float: left;
+    width: 200px;
+    height: 330px;
+    margin: 10px;
+    padding: 7px;
+    border: 1px solid red;  
+ }
+
+ body {
+ 	background: #DCDADA;
+ }
+div a img {
+	border: none;
+    width: 200px;
+    padding: 1px;
+}

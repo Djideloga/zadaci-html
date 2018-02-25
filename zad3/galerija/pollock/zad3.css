@@ -1,0 +1,23 @@
+a img {
+    float: right;
+    width:200px;
+    padding:8px;
+    border:1px solid red;
+}
+p{
+	font-size: 145%;
+	font-family: Calibri;
+}
+ div{
+ 	display: inline-block;
+ }
+.caption{ text-align: center;
+		  margin-top:4px;
+		  font-size:16px;
+		  color: red;}
+		  
+.img-frame-cap {
+    width:200px;
+    padding:15px 15px 2px 15px;
+    border: 1px solid red;
+    border-collapse:   } 
